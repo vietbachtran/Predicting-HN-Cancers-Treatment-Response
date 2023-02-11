@@ -9,3 +9,7 @@ ConvLSTMs_Contour.ipynb : construct the ConvLSTM model
 U-net-Contour-only-Slicer3D.ipynb : contruct the UnetCNN model
 
 accuracy metrics.ipynb : Dice and Jaccard index on the 2 models
+
+Patients_characteristics.ipynb: Statistical tests on patients characteristics to check for selection bias
+
+loss table.ipynb: generate models training loss table
