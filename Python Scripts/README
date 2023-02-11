@@ -1,0 +1,11 @@
+Python scripts are written using Jupyter Notebook.
+
+DWI_process.ipynb : process DWI dicom scans and RD tumor contour binary maps by getting the center slice and crop the images. Output is the cropped DWI scans and contour maps as nrrd files.
+
+T2_process.ipynb : process T2 dicom scans and RD tumor contour binary maps by getting the center slice and crop the images. Output is the cropped T2 scans and contour maps as nrrd files.
+
+ConvLSTMs_Contour.ipynb : construct the ConvLSTM model
+
+U-net-Contour-only-Slicer3D.ipynb : contruct the UnetCNN model
+
+accuracy metrics.ipynb : Dice and Jaccard index on the 2 models
