@@ -1,0 +1,5 @@
+These are the data used by the models.
+
+DWI_RD_Center_Cropped.zip : DWI scans and tumor contour binary maps at the tumor centroid (64x64)
+
+T2_RD_Center_Cropped.zip : T2 scans and tumor contour binary maps at the tumor centroid (128x128)
